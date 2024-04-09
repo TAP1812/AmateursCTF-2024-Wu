@@ -1,3 +1,3 @@
 # AESY
-## Solved : 315
+## Solves : 315
 **Points:** 171
