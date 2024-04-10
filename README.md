@@ -1,3 +1,2 @@
-# AESY
-## Solves : 315
-**Points:** 171
+# This is my Wu for AmateursCTF 2024
+**Category:** `Crypto`
